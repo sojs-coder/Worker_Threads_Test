@@ -1,0 +1,20 @@
+{
+  "name": "worker_threads_test",
+  "version": "1.0.0",
+  "description": "Testing out how worker_threads works and possible use cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojs-coder/Worker_Threads_Test.git"
+  },
+  "author": "SoJS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojs-coder/Worker_Threads_Test/issues"
+  },
+  "homepage": "https://github.com/sojs-coder/Worker_Threads_Test#readme"
+}
