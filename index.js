@@ -1,7 +1,7 @@
 const { Worker } = require("worker_threads");
 
 
-const thingsToProcess = [ 1_000_000_000, 100_000_000, 2_000_000_000, 10_000_000_000 ]; // four cores on my machine
+const thingsToProcess = [ 3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000,3_000_000_000 ]; // sixteen cores on my machine
 
 console.log("Testing ", thingsToProcess);
 console.log("Looping over each element (X) x times, then squaring list[x]");
