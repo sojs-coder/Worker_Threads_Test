@@ -1,6 +1,6 @@
 # Worker_Threads_Test
 
-Testing out how worker_threads works and possible use cases
+Testing out how worker_threads performs and possible use cases
 
 
 We looped over a massive quantity of numbers and squared them to simulate a difficult work job for the comupter
